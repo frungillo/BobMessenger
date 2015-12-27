@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="BobMessenger/BobMessenger.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.022583e3958fac8f" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BobMessenger/MainActivity.cs">
+    <Files>
+      <File FileName="BobMessenger/MainActivity.cs" Line="72" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BobMessenger" expanded="True">
+            <Node name="BobMessenger" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
